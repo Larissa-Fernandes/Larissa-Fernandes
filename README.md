@@ -9,7 +9,7 @@
     <a href=https://www.linkedin.com/in/larissa-fernandes->
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>ㅤ
-    <a href=instagram.com/nee.bovary>
+    <a href=https://instagram.com/nee.bovary>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
