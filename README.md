@@ -2,10 +2,10 @@
 <p align = center> A beginning developer from Brazil. </p>
 <p align = center>    
     <a href=https://www.linkedin.com/in/larissa-fernandes->
-      <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=193549" alt="LinkedIn"/>
   </a>ㅤ
     <a href=https://instagram.com/nee.bovary>
-      <img src="https://img.shields.io/badge/Instagram-fabd2f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-fabd2f?style=for-the-badge&logo=instagram&logoColor=193549" alt="Instagram"/>
   </a>
 </p>
 <p align="center">
