@@ -18,7 +18,6 @@
 
 <h1> </h1>
 
-<p align="center"><img src="https://img.shields.io/badge/learning-0d1117?style=for-the-badge" alt="Learning"/></p>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-739866?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-739866?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-739866?&style=for-the-badge&logo=JavaScript&logoColor=white" alt="HTML5"/>
 </p>
