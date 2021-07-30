@@ -22,3 +22,4 @@
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-739866?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-739866?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-739866?&style=for-the-badge&logo=JavaScript&logoColor=white" alt="HTML5"/>
 </p>
+<p align = "center"><img src="https://i.pinimg.com/originals/fb/60/3e/fb603e7db49ac9b0ce7f055d657ca288.gif" height = 100px/></p>
