@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://camo.githubusercontent.com/8c6c9fe8b20a0f099ab74e04175f8e1a7a87fa1a83ca707246c8112f14ee12da/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c6172697373612d4665726e616e646573267468656d653d67727576626f7826686964653d7374617273" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Larissa-Fernandes&amp;show_icons=true&amp;count_private=true&amp;theme=gruvbox" style="max-width:100%;" width="350"></a>
+    <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa-Fernandes&layout=compact&theme=gruvbox" style="max-width:100%;" width="330"></a>
 </p>
 
 <h1> </h1>
