@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap" rel="stylesheet"> 
 
-<h2 align = "center">Hello World, I'm Larissa</h1>
+<h2 align = "center">Hello World, I'm Larissa<img src= "https://i.pinimg.com/originals/5b/79/61/5b79617e87149ba691fed680cde2e5d3.gif" width=200 align = "right"/></h1>
 <p align = center> A beginning developer from Brazil. </p>
 <p align = center>    
     <a href=https://www.linkedin.com/in/larissa-fernandes->
